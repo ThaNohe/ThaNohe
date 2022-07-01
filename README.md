@@ -13,5 +13,6 @@ Soy una Front-Developer que le gusta aprender y a encontrado en la programación
 
 ### Contacto
 📫📧 Contacto 
+
 (thalia.cuadros.bautista@gmail.com)
 (https://www.linkedin.com/in/thaliacuadros/)
